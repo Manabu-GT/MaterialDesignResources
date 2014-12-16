@@ -37,6 +37,8 @@
     <dimen name="divider_height">1dp</dimen>
 
     <!-- General -->
+    <dimen name="horizontal_margin_xsmall">4dp</dimen>
+    <dimen name="vertical_margin_xsmall">4dp</dimen>
     <dimen name="horizontal_margin_small">8dp</dimen>
     <dimen name="vertical_margin_small">8dp</dimen>
     <dimen name="horizontal_margin_medium">16dp</dimen>
